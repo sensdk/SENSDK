@@ -1,0 +1,6 @@
+framework module SENSDK {
+  umbrella header "SENSDK.h"
+
+  export *
+  module * { export * }
+}
